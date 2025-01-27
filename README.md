@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello all! I'm Trenton. 👋
 
 <!--
 **tdcoleman127/tdcoleman127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-✨ ~ Hello all! I'm Trenton. I'm a college sophomore from Chicago passionate about UI/UX design! I'm in the middle of building my own website, and learning JavaScript and React to make it happen! ~ ✨
+✨ ~ I'm a college sophomore from Chicago passionate about UI/UX design! I'm in the middle of building my own website, and learning JavaScript and React to make it happen! ~ ✨
 
 🥇 Since high school, I built my first website via my dual enrollment class at IIT (Illinois Institute of Technology). That sparked my interest in front-end design, which led me to WIN my first hackathon with Code for Good at Google HQ!
 
