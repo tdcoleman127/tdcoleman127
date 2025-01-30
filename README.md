@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 🥇 I built my first website via my dual enrollment class at IIT (Illinois Institute of Technology) which sparked my interest in front-end design, what led me to WIN my first hackathon with Code for Good at Google HQ!
 
-⚡ It geared me towards not only making creative websites, but how to make websites more creative and accessible!
+⚡ It geared me towards not only making creative websites, but how to make applications more accessible for people!
 
 🛠️ Let me know if I can support with any projects! Though I prefer front-end and visual design, I have some back-end experience too in Data Structures (C++) and object-oriented programming (Java).
 
